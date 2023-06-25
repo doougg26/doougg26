@@ -1,5 +1,7 @@
 ## 👋 Hi there!<br>
-<br>I’m a beginner front-end developer passionate about creating beautiful and functional websites.<br> I’m constantly learning and improving my skills in HTML, CSS, and JavaScript.<br> Check out my repositories to see some of my projects!😁
+I’m a beginner front-end developer passionate about creating beautiful and functional websites.<br>
+I’m constantly learning and improving my skills in HTML, CSS, and JavaScript.<br>
+Check out my repositories to see some of my projects!😁
 
  <div>
    <a href="https://github.com/doougg26">
