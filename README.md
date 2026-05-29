@@ -34,6 +34,7 @@ If you wanna see some of my stuffs, check out my repositories(there's nothing sp
 </div>
  
 ### 🚀My Stats
+<p align="center"/>
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/doougg26/doougg26/output-3d-contrib/night.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doougg26/doougg26/output-3d-contrib/day.svg" />
