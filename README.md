@@ -2,7 +2,8 @@
 
  <div>
 <h1 align="center">Hi, im doougg26!</h1>
-  <div align="center"><img width="170" height="200" alt="watermarked_img_2757861298444134465-removebg-preview" src="https://github.com/user-attachments/assets/03b25144-f090-46b6-ba06-32388ca24a21" />
+  <div align="center"> <img width="239" height="310" alt="avatar" src="https://github.com/user-attachments/assets/cadbd6e6-384d-4aa7-8099-76142965f405" />
+
 </div>
 I’m a guy that do sometings sometimes.<br>
 If you wanna see some of my stuffs, check out my repositories(there's nothing special)!😁
@@ -34,9 +35,9 @@ If you wanna see some of my stuffs, check out my repositories(there's nothing sp
  
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<doougg26>/<https://github.com/dooug26/doougg26>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<doougg26>/<https://github.com/dooug26/doougg26>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<doougg26>/<https://github.com/doug26/doougg26>/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<doougg26>/<https://github.com/dooug26/doougg26>/output-3d-contrib/night.svg />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<doougg26>/<https://github.com/dooug26/doougg26>/output-3d-contrib/day.svg />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<doougg26>/<https://github.com/doug26/doougg26>/output-3d-contrib/day.svg />
 	</picture>
 </p>
 
