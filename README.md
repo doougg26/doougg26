@@ -35,9 +35,9 @@ If you wanna see some of my stuffs, check out my repositories(there's nothing sp
  
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<doougg26>/<https://github.com/dooug26/doougg26>/output-3d-contrib/night.svg />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<doougg26>/<https://github.com/dooug26/doougg26>/output-3d-contrib/day.svg />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<doougg26>/<https://github.com/doug26/doougg26>/output-3d-contrib/day.svg />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/doougg26/doougg26/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doougg26/doougg26/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/doougg26/doougg26/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 
