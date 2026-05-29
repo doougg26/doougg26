@@ -1,11 +1,11 @@
 <div align="left">
 
  <div>
-<h1 align="center">Hi, im doougg26!</h1>
+<h1 align="center">✌️Hi, im doougg26!👋</h1>
   <div align="center"> <img width="239" height="310" alt="avatar" src="https://github.com/user-attachments/assets/cadbd6e6-384d-4aa7-8099-76142965f405" />
 
 </div>
-I’m a guy that do sometings sometimes.<br>
+I’m a guy that do sometings sometimes.😎<br>
 If you wanna see some of my stuffs, check out my repositories(there's nothing special)!😁
  </div>
 </div>
@@ -16,7 +16,7 @@ If you wanna see some of my stuffs, check out my repositories(there's nothing sp
 
 
 
-### My Stack
+### 📒My Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Node.Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -33,7 +33,7 @@ If you wanna see some of my stuffs, check out my repositories(there's nothing sp
   
 </div>
  
-<p align="center" >
+### 🚀My Stats
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/doougg26/doougg26/output-3d-contrib/night.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doougg26/doougg26/output-3d-contrib/day.svg" />
